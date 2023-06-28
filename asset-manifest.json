@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsera/static/css/main.43af4a71.css",
+    "main.js": "/newsera/static/js/main.a31e4ea3.js",
+    "static/js/787.5f88d822.chunk.js": "/newsera/static/js/787.5f88d822.chunk.js",
+    "index.html": "/newsera/index.html",
+    "main.43af4a71.css.map": "/newsera/static/css/main.43af4a71.css.map",
+    "main.a31e4ea3.js.map": "/newsera/static/js/main.a31e4ea3.js.map",
+    "787.5f88d822.chunk.js.map": "/newsera/static/js/787.5f88d822.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43af4a71.css",
+    "static/js/main.a31e4ea3.js"
+  ]
+}
